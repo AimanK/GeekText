@@ -1,5 +1,13 @@
 This project was bootstrapped with Create React App.
 
+FIRST, PLEASE DO:
+
+npm install
+
+cd frontend
+
+npm install again
+
 Available Scripts
 In the project directory, you can run:
 
